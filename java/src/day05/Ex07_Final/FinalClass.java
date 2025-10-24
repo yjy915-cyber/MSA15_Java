@@ -10,4 +10,3 @@ package day05.Ex07_Final;
 	// class SubClass extends FinalClass {
 //	     
 	// }
-}
