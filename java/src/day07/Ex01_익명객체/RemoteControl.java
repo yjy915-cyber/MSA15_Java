@@ -1,4 +1,4 @@
-package Ex02_인터페이스;
+package day07.Ex01_익명객체;
 
 public interface RemoteControl {
 

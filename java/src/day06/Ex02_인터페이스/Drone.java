@@ -1,19 +1,17 @@
-package Ex02_인터페이스;
+package day06.Ex02_인터페이스;
 
-// 클래스를 상속하는 키워드			: extends
-// 인터페이스를 구현하는 키워드		: implements
-public class RcCar implements RemoteControl {
+public class Drone implements RemoteControl {
 
 	int speed;
 	
 	@Override
 	public void turnON() {
-		System.out.println("RC카 전원을 켭니다.");
+		System.out.println("드론 전원을 켭니다.");
 	}
 
 	@Override
 	public void turnOff() {
-		System.out.println("RC카 전원을 끕니다.");
+		System.out.println("드론 전원을 끕니다.");
 	}
 
 	@Override
@@ -33,5 +31,4 @@ public class RcCar implements RemoteControl {
 		}
 		System.out.println("현재 속도 : " + this.speed);
 	}
-
 }

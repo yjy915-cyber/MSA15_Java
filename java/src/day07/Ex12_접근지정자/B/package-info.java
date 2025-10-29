@@ -1,0 +1,1 @@
+package day07.Ex12_접근지정자.B;

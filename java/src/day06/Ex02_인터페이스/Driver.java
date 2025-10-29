@@ -1,4 +1,4 @@
-package Ex02_인터페이스;
+package day06.Ex02_인터페이스;
 
 public class Driver {
 
