@@ -1,0 +1,1 @@
+package day10.Ex01_Lambda;
